@@ -1,0 +1,3 @@
+Hey !
+This file is here so that the folder wont go empty and I can upload it to github !
+Enjoy the code and the 100 that I get here :P !
